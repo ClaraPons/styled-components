@@ -1,0 +1,6 @@
+export const background = '#0a192f'
+export const lighterBackground = '#112240'
+export const text = '#8892b0'
+export const title = '#ccd6f6'
+export const green = '#64ffda'
+export const lighterGreen = 'rgba(100,255,218,0.1)'
